@@ -1,0 +1,2 @@
+account_num,aws_access_key_id,aws_secret_access_key,role_arn,region,lambda1_zip_path,lambda2_zip_path,lambda3_zip_path,lambda4_zip_path,lambda5_zip_path,lambda6_zip_path,lambda7_zip_path,lambda8_zip_path,lambda9_zip_path,ARN_stla_teich_lambda_db,handler1,handler2,handler3,handler4,handler5,handler6,handler7,handler8,handler9,aft_rdk_custom_layer_arn,
+1,
